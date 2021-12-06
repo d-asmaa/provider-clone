@@ -1,0 +1,6 @@
+cloud_id        = "CLOUD_ID"
+cluster_name    = "CLUSTER_NAME"
+project_name    = "PROJECT_NAME"
+bucket_name     = "BUCKET_NAME"
+dbuser          = "USERNAME"
+dbuser_password = "PASSWORD"
